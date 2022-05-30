@@ -5,7 +5,6 @@ public class TesteAtleta {
 		
 		double altura = 1.74;
 		double peso = 68;
-		int IMC;
 		
 		Atleta atle = new Atleta();
 		atle.altura = altura;
